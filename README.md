@@ -58,12 +58,14 @@ Easy JS to execute too for POST:
         });
 
 ```
-![Image](https://github.com/user-attachments/assets/dcbf2a8b-36c2-4714-a4b8-8c726c07348c)
-Image of insert function
-![image](https://github.com/user-attachments/assets/9c9520cc-e042-4aed-ac6a-2f2b28b65abd)
-Sample Notes Table
-![image](https://github.com/user-attachments/assets/b5d1b891-7294-45e5-9ab4-8107a026913a)
-Get Function
+![image](https://github.com/user-attachments/assets/ace49253-bf14-4fca-ad6d-87a7ec2633c6)
+#Image of insert function
+
+![image](https://github.com/user-attachments/assets/09addada-ddf0-453a-90f2-86a735332b4d)
+#Sample Notes Table
+
+![image](https://github.com/user-attachments/assets/b991c5d2-a45e-481d-9f36-aa23ea6783ae)
+#Get Function
 
 
 # Supabase-notes-service
